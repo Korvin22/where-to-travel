@@ -1,0 +1,13 @@
+.header__claim {
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.11;
+    list-style: none;
+  }
+  
+  .header__lang-link:hover {
+    opacity: 0.8;
+  }
+  
