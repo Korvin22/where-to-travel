@@ -1,14 +1,14 @@
 .places__paragraph {
   font-size: 12px;
-  line-height: 1.8;
+  line-height: 1.7;
   list-style-type: none;
-  padding: 26px 0 0 0;
+  padding: 20px 0 0 0;
   margin: 0;
 }
 
 @media screen and (max-width: 984px) {
 .places__paragraph {
   line-height: 1.4;
-  padding: 18px 0 0 0;
+  padding: 16px 0 0 0;
 }
 }
