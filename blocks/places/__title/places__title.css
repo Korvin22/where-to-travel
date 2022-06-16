@@ -7,7 +7,13 @@
 }
 
 @media screen and (max-width: 528px) {
-.places__title {
-  font-size: 24px;
+  .places__title {
+    font-size: 24px;
+  }
 }
+
+@media screen and (max-width: 728px) {
+  .places__title {
+    margin: 0 0 16px 0;
+  }
 }

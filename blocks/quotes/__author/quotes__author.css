@@ -4,18 +4,8 @@
   font-weight: 400;
   align-self: flex-start;
   padding: 0;
+  margin: 0;
   text-transform: uppercase;
-  font-weight:700;
-}
-
-@media screen and (max-width:984px) {
-  .quotes__author {
-      padding: 0 0 0 24px;
-  }
-}
-
-@media screen and (max-width:568px) {
-  .quotes__author {
-      padding: 0 0 0 16px;
-  }
+  font-weight: 700;
+  letter-spacing: 0.9px;
 }

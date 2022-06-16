@@ -8,8 +8,8 @@
 }
 
 @media screen and (max-width: 984px) {
-.places__paragraph {
-  line-height: 1.4;
-  padding: 16px 0 0 0;
-}
+  .places__paragraph {
+    line-height: 1.4;
+    padding: 16px 0 0 0;
+  }
 }

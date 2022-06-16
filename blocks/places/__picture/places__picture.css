@@ -14,7 +14,7 @@
 }
 
 .places__picture:nth-of-type(3) {
-    order: 1;
+  order: 1;
 }
 
 @media screen and (max-width: 984px) {
@@ -29,6 +29,6 @@
   }
 
   .places__picture:nth-of-type(3) {
-      order: 3;
+    order: 3;
   }
 }

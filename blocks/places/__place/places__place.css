@@ -8,7 +8,7 @@
 
 @media screen and (max-width: 984px) {
   .places__place {
-    grid-template-columns: repeat(2, minmax(364px, 492px));
+    grid-template-columns: repeat(2, minmax(320px, 492px));
   }
 }
 
