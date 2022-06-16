@@ -1,0 +1,7 @@
+.intro__description {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  align-self: center;
+  padding-left:68px;
+}

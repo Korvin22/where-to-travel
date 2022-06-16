@@ -1,13 +1,14 @@
 .header__claim {
     text-decoration: none;
     font-style: normal;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 1.11;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 1.07;
     list-style: none;
+    color: hsl(0deg 0% 0%);
   }
-  
-  .header__lang-link:hover {
+
+  .header__claim:hover {
     opacity: 0.8;
   }
-  
+

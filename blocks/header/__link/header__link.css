@@ -1,29 +1,29 @@
 .header__link {
     text-decoration: none;
     font-style: normal;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 1.11;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 1.07;
     list-style: none;
     padding-right:15px;
     color: hsl(0deg 0% 0%);
   }
 
-  .header-link:last-of-type {
+  .header__link:last-of-type {
     padding-right:0;
   }
-  
+
   .header__link:hover {
     opacity: 0.8;
   }
-  
+
   @media screen and (max-width:568px) {
     .header__link {
       padding-right:0;
       padding-bottom:15px;
     }
 
-    .header-link:last-of-type {
+    .header__link:last-of-type {
         padding-bottom:0;
       }
   }
