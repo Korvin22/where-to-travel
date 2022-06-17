@@ -7,5 +7,5 @@
 * сделать форму обратной связи
 
 ### Ссылка на GitPages
-https://korvin22.github.io/where-to-travel/index.html
+https://korvin22.github.io/where-to-travel/
 
