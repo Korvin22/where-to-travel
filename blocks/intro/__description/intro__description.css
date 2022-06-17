@@ -13,7 +13,7 @@
     position: relative;
   }
 
-  .intro__description::after {
+  .intro__description::before {
     content: "";
     opacity: 0.5;
     top: 0;
