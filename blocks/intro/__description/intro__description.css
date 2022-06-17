@@ -10,7 +10,7 @@
   .intro__description {
     padding: 30% 20% 30% 20%;
     max-width: 100%;
-    position:relative;
+    position: relative;
   }
 
   .intro__description::after {
@@ -22,7 +22,7 @@
     right: 0;
     position: absolute;
     z-index: -1;
-    background-image:url(../../../images/intro-image.jpeg);
+    background-image: url(./../../../images/intro-image.jpeg);
     background-position: center;
     background-size: cover;
   }
