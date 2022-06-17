@@ -17,6 +17,12 @@
   }
 }
 
+@media screen and (max-width: 728px) {
+  .quotes__subtitle {
+    text-align:center;
+  }
+}
+
 @media screen and (max-width: 568px) {
   .quotes__subtitle {
     padding: 0 0 0 16px;

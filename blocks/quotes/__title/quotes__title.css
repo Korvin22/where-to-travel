@@ -12,13 +12,14 @@
 @media screen and (max-width: 528px) {
   .quotes__title {
     font-size: 24px;
-    margin-bottom: 70px;
-    padding-right: 50px;
+    margin: 0 0 70px 0;
+
   }
 }
 
 @media screen and (max-width: 728px) {
   .quotes__title {
-    margin-bottom: 88px;
+    text-align:center;
+    max-width: 100%;
   }
 }

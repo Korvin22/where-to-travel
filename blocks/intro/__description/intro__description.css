@@ -8,7 +8,7 @@
 
 @media screen and (max-width: 728px) {
   .intro__description {
-    padding: 30% 20% 30% 20%;
+    padding: 30% 15% 30% 15%;
     max-width: 100%;
     position: relative;
   }

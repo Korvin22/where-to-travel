@@ -14,6 +14,12 @@
   }
 }
 
+@media screen and (max-width: 728px) {
+  .quotes__list {
+    justify-items:center;
+  }
+}
+
 @media screen and (max-width: 568px) {
   .quotes__list {
     grid-template-columns: repeat(1, minmax(230px, 1fr));
