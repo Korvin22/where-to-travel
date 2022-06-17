@@ -17,6 +17,12 @@
   }
 }
 
+@media screen and (max-width: 768px) {
+  .intro__subtitle {
+    color: black;
+  }
+}
+
 @media screen and (max-width: 568px) {
   .intro__subtitle {
     padding: 0 0 0 16px;
